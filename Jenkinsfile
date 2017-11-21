@@ -1,4 +1,4 @@
-///// Common variables /////
+///// Common variables from prem /////
 env.git_repo_name="git@github.com/excelprem/HelloWorld" // update this value as created in Step 9 above
 env.git_id="a4e1edab-6a97-4c62-8404-e298a616a575"  // update this value as created in Step 9 above
 
