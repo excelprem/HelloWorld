@@ -6,6 +6,7 @@ node("master")
 {
 
 // STAGE is a labeled block.
+//trial -non
 stage 'CI Build'
 
 //##########################################################
