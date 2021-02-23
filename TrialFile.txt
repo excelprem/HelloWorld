@@ -1,2 +1,3 @@
 ABCDETF
 NewBranch
+smallCase
