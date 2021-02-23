@@ -1,3 +1,0 @@
-ABCDETF
-NewBranch
-smallCase
